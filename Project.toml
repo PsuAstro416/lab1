@@ -1,0 +1,12 @@
+name = "Lab1"
+uuid = "3fe1134b-8548-4f57-9287-a11a17bc02ee"
+authors = ["Eric Ford <ebf11@psu.edu>"]
+version = "0.1.0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Pkg = "1.11.0"
+Pluto = "0.20.4"
